@@ -7,3 +7,5 @@ If the sensor does not "see" something under it, withing a minimalistic range of
 Team Members are :
 * GHOSN Chadi
 * JALBOUT Nehme
+
+PS. The final project might look a little different cause we are still arranging the wires dispostion and some minor modifications that will not affect the aim or the general appearance of the project.
